@@ -1,0 +1,10 @@
+# GraphQL For Backend
+In GraphQL, the backend refers to the server-side of the application, where the data is stored and processed.
+
+When we talk about GraphQL on the backend, developers create a special kind of server called a GraphQL server. This server is responsible for handling the requests coming from the frontend, specifically GraphQL queries and mutations.
+
+To create a GraphQL server, developers can use tools like Apollo Server, Express-GraphQL, or GraphQL-Java. These tools help in setting up the server and handling the incoming GraphQL requests.
+
+The GraphQL server's main job is to take the incoming queries and mutations, check if they match the defined schema (a blueprint of the data structure), and then fetch the requested data from the database or other data sources. Once the data is collected, the server sends it back to the client in a consistent and predictable format, following the structure defined by the schema.
+
+In simpler terms, GraphQL on the backend involves creating a server that understands and processes GraphQL requests. It retrieves the requested data from the appropriate sources and sends it back to the client in a structured manner. This enables efficient and customizable data fetching for the frontend applications.
