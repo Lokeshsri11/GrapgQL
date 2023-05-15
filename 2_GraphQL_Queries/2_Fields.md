@@ -19,8 +19,8 @@ When you send this query to the server, it will respond with the requested data:
 {
   "data": {
     "user": {
-      "name": "John Doe",
-      "email": "johndoe@example.com"
+      "name": "Lokesh Srivastav",
+      "email": "lokeshsri1109@gmail.com"
     }
   }
 }
