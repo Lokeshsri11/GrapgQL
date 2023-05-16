@@ -6,7 +6,7 @@ Let's say you want to create a new user profile. In GraphQL, you would use a mut
 Here's an example of how the mutation might look in GraphQL syntax:
 ```graphql
 mutation {
-  createUserProfile(name: "John Doe", email: "john@example.com", password: "password123") {
+  createUserProfile(name: "Lokesh Sri", email: "Loki119@gmail.com", password: "password123") {
     id
     name
     email
