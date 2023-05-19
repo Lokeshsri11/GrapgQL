@@ -29,6 +29,7 @@ mutation UpdateUser {
     name
   }
 }
+```
 
 In this example, we have two operations: `GetUserInfo` for querying user information and `UpdateUser` for updating a user's name. Each operation has a distinct name, making it clear what action it performs.
 
